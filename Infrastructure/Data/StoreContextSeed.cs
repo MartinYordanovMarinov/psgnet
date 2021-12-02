@@ -6,7 +6,6 @@ using Microsoft.Extensions.Logging;
 using System.IO;
 using System.Text.Json;
 using Core.Entities;
-using System;
 namespace Infrastructure.Data
 {
     public class StoreContextSeed
